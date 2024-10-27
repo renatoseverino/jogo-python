@@ -1,0 +1,13 @@
+Aqui está um exemplo de script básico em Python para criar um jogo de carro usando a biblioteca Pygame. Esse jogo é bem simples e permite controlar o carro para desviar de obstáculos enquanto ele se move pela pista.
+
+Para rodar esse código, você precisará ter o Pygame instalado. Para instalar, use o seguinte comando:
+
+bash
+Copiar código
+pip install pygame
+Depois de instalar o Pygame, copie e execute o código abaixo. Ele cria uma janela onde você pode controlar o carro com as setas do teclado.
+
+
+
+
+após e só roda o script.
