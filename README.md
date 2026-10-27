@@ -1,2 +1,2 @@
 # Artes Instagram B7 Telecom
-Carrossel do PPPoE Monitor Pro.
+Fila de posts diarios: queue.json (data, imagens, legenda). Publicacao automatica as 7h.

@@ -1,0 +1,187 @@
+[
+ {
+  "date": "2026-10-28",
+  "slug": "cliente-caiu",
+  "images": [
+   "posts/2026-10-28-cliente-caiu/01.jpg",
+   "posts/2026-10-28-cliente-caiu/02.jpg",
+   "posts/2026-10-28-cliente-caiu/03.jpg",
+   "posts/2026-10-28-cliente-caiu/04.jpg",
+   "posts/2026-10-28-cliente-caiu/05.jpg"
+  ],
+  "caption": "Seu cliente caiu… e você só descobriu quando ele ligou reclamando? 📞\n\nCom monitoramento PPPoE em tempo real, o seu NOC vê a queda no minuto em que ela acontece, sabe qual concentrador foi afetado e quanto tempo o cliente ficou offline.\n\nResultado: menos ligação no suporte e menos cliente pensando em cancelar.\n\n👉 Quer ver isso funcionando na sua rede? Mande DIAGNÓSTICO no WhatsApp (83) 99316-6390 ou toque no link da bio.\n\n#provedordeinternet #provedores #ISP #NOC #PPPoE #MikroTik #monitoramentoderede #telecom #B7Telecom"
+ },
+ {
+  "date": "2026-10-29",
+  "slug": "queda-em-massa",
+  "images": [
+   "posts/2026-10-29-queda-em-massa/01.jpg",
+   "posts/2026-10-29-queda-em-massa/02.jpg",
+   "posts/2026-10-29-queda-em-massa/03.jpg",
+   "posts/2026-10-29-queda-em-massa/04.jpg",
+   "posts/2026-10-29-queda-em-massa/05.jpg",
+   "posts/2026-10-29-queda-em-massa/06.jpg",
+   "posts/2026-10-29-queda-em-massa/07.jpg",
+   "posts/2026-10-29-queda-em-massa/08.jpg"
+  ],
+  "caption": "Queda em massa não é azar: quase sempre tem uma dessas 6 causas por trás. ⚠️\n\nSalve este post para usar no próximo incidente e marque o seu técnico de plantão.\n\nNa B7 Telecom, monitoramos concentrador, RADIUS, pools de IP, OLT e uplinks 24/7 com Zabbix, MikroTik e alertas no WhatsApp. Assim a causa aparece antes do chamado.\n\n💬 Comente NOC que eu te mando o checklist de monitoramento no direct.\n\n#provedordeinternet #redes #MikroTik #PPPoE #fibraoptica #OLT #GPON #ISP #infraestruturaderede #B7Telecom"
+ },
+ {
+  "date": "2026-10-30",
+  "slug": "sinais-noc",
+  "images": [
+   "posts/2026-10-30-sinais-noc/01.jpg",
+   "posts/2026-10-30-sinais-noc/02.jpg",
+   "posts/2026-10-30-sinais-noc/03.jpg",
+   "posts/2026-10-30-sinais-noc/04.jpg",
+   "posts/2026-10-30-sinais-noc/05.jpg",
+   "posts/2026-10-30-sinais-noc/06.jpg",
+   "posts/2026-10-30-sinais-noc/07.jpg"
+  ],
+  "caption": "Quantos desses sinais o seu provedor tem hoje? 👀\n\nSe marcou 2 ou mais, a rede está sendo gerenciada no improviso, e isso custa caro em suporte, desgaste da equipe e cancelamento.\n\nO NOC da B7 Telecom monitora a sua rede 24/7, filtra o que é alerta de verdade e avisa a sua equipe no WhatsApp com o problema já identificado.\n\n✅ Quer melhorar o monitoramento e a estabilidade da sua rede? Solicite um diagnóstico com a B7 Telecom: wa.me/5583993166390 (link na bio).\n\n#provedordeinternet #NOC #monitoramento24h #consultoriaderedes #ISP #telecom #MikroTik #B7Telecom"
+ },
+ {
+  "date": "2026-10-31",
+  "slug": "monitorar-olt",
+  "images": [
+   "posts/2026-10-31-monitorar-olt/01.jpg",
+   "posts/2026-10-31-monitorar-olt/02.jpg",
+   "posts/2026-10-31-monitorar-olt/03.jpg",
+   "posts/2026-10-31-monitorar-olt/04.jpg",
+   "posts/2026-10-31-monitorar-olt/05.jpg"
+  ],
+  "caption": "OLT ligada não significa rede saudável. 🔦\n\n3 coisas que todo provedor deveria acompanhar:\n1️⃣ Potência óptica de cada ONU, com alerta antes de cair\n2️⃣ ONUs offline por PON, para separar problema de fibra de problema de cliente\n3️⃣ Temperatura, CPU e uplinks da OLT\n\nA B7 Telecom monta esse monitoramento com Zabbix e Grafana e envia os alertas no WhatsApp da sua equipe.\n\n📲 Diagnóstico gratuito: (83) 99316-6390\n\n#provedordeinternet #redes #MikroTik #PPPoE #fibraoptica #OLT #GPON #ISP #infraestruturaderede #B7Telecom #Zabbix #Grafana"
+ },
+ {
+  "date": "2026-11-01",
+  "slug": "diagnostico-gratis",
+  "images": [
+   "posts/2026-11-01-diagnostico-gratis/01.jpg",
+   "posts/2026-11-01-diagnostico-gratis/02.jpg",
+   "posts/2026-11-01-diagnostico-gratis/03.jpg",
+   "posts/2026-11-01-diagnostico-gratis/04.jpg",
+   "posts/2026-11-01-diagnostico-gratis/05.jpg",
+   "posts/2026-11-01-diagnostico-gratis/06.jpg"
+  ],
+  "caption": "Quer melhorar o monitoramento e a estabilidade da sua rede? Comece pelo diagnóstico gratuito da B7 Telecom. 🩺\n\nFunciona assim:\n1. Você chama no WhatsApp\n2. Conversamos 20 minutos sobre a sua rede\n3. Você recebe os riscos e as prioridades\n4. Se fizer sentido, mandamos a proposta\n\nSem compromisso e sem enrolação. Atendemos provedores de todo o Brasil.\n\n👉 wa.me/5583993166390 (link na bio)\n\n#provedordeinternet #NOC #monitoramento24h #consultoriaderedes #ISP #telecom #MikroTik #B7Telecom"
+ },
+ {
+  "date": "2026-11-02",
+  "slug": "log-ao-alerta",
+  "images": [
+   "posts/2026-11-02-log-ao-alerta/01.jpg",
+   "posts/2026-11-02-log-ao-alerta/02.jpg",
+   "posts/2026-11-02-log-ao-alerta/03.jpg",
+   "posts/2026-11-02-log-ao-alerta/04.jpg",
+   "posts/2026-11-02-log-ao-alerta/05.jpg",
+   "posts/2026-11-02-log-ao-alerta/06.jpg"
+  ],
+  "caption": "Do log ao alerta em segundos, sem ninguém olhando tela. ⚡\n\nMikroTik gera o evento → Graylog registra → n8n processa → sua equipe recebe no WhatsApp ou Telegram.\n\nPPPoE caiu, interface com erro, tentativa de acesso, regra de firewall acionada: tudo chega com horário e histórico.\n\n💰 Implantação a partir de R$ 500\n📲 Mande ALERTA no WhatsApp (83) 99316-6390\n\n#MikroTik #Graylog #n8n #automacao #provedordeinternet #NOC #ISP #B7Telecom"
+ },
+ {
+  "date": "2026-11-03",
+  "slug": "rede-ou-cliente",
+  "images": [
+   "posts/2026-11-03-rede-ou-cliente/01.jpg",
+   "posts/2026-11-03-rede-ou-cliente/02.jpg",
+   "posts/2026-11-03-rede-ou-cliente/03.jpg",
+   "posts/2026-11-03-rede-ou-cliente/04.jpg",
+   "posts/2026-11-03-rede-ou-cliente/05.jpg",
+   "posts/2026-11-03-rede-ou-cliente/06.jpg"
+  ],
+  "caption": "\"Minha internet fica lenta toda noite.\" Quem trabalha em provedor ouve isso todo dia. 😅\n\nAntes de mandar técnico, olhe 4 dados: consumo x plano, uplink no horário, quedas da sessão PPPoE e potência da ONU. Na maioria das vezes, a resposta está aí.\n\nSalve e mande para o seu time de suporte.\n\n✅ Quer esses dados em um painel só? Solicite um diagnóstico com a B7 Telecom: link na bio.\n\n#provedordeinternet #redes #MikroTik #PPPoE #fibraoptica #OLT #GPON #ISP #infraestruturaderede #B7Telecom #suportetecnico"
+ },
+ {
+  "date": "2026-11-04",
+  "slug": "cgnat-logs",
+  "images": [
+   "posts/2026-11-04-cgnat-logs/01.jpg",
+   "posts/2026-11-04-cgnat-logs/02.jpg",
+   "posts/2026-11-04-cgnat-logs/03.jpg",
+   "posts/2026-11-04-cgnat-logs/04.jpg",
+   "posts/2026-11-04-cgnat-logs/05.jpg",
+   "posts/2026-11-04-cgnat-logs/06.jpg"
+  ],
+  "caption": "Com CGNAT, vários clientes saem pelo mesmo IP público. Quando chega um pedido de identificação, só o IP não resolve: você precisa de IP + porta + horário. 🔎\n\nChecklist rápido:\n✅ Registro de IP público, porta e horário de cada sessão\n✅ Guarda de pelo menos 1 ano (Marco Civil da Internet, art. 13)\n✅ NTP sincronizado em todos os equipamentos\n✅ Consulta rápida quando chegar um ofício\n\nA B7 Telecom revisa e implanta o registro de CGNAT no seu provedor.\n\n💬 Comente CGNAT ou chame no WhatsApp (83) 99316-6390\n\n#provedordeinternet #redes #MikroTik #PPPoE #fibraoptica #OLT #GPON #ISP #infraestruturaderede #B7Telecom #CGNAT #IPv4"
+ },
+ {
+  "date": "2026-11-05",
+  "slug": "alerta-demais",
+  "images": [
+   "posts/2026-11-05-alerta-demais/01.jpg",
+   "posts/2026-11-05-alerta-demais/02.jpg",
+   "posts/2026-11-05-alerta-demais/03.jpg",
+   "posts/2026-11-05-alerta-demais/04.jpg",
+   "posts/2026-11-05-alerta-demais/05.jpg",
+   "posts/2026-11-05-alerta-demais/06.jpg",
+   "posts/2026-11-05-alerta-demais/07.jpg"
+  ],
+  "caption": "Se o seu Zabbix dispara tanto alerta que a equipe passou a ignorar, ele parou de proteger a rede. 🔕\n\n5 ajustes que resolvem:\n1. Dependência entre triggers\n2. Tempo mínimo antes de alertar\n3. Severidade de verdade\n4. Janelas de manutenção\n5. Revisão mensal dos alertas\n\nA B7 Telecom revisa o seu monitoramento e entrega só o que precisa de ação.\n\n📲 (83) 99316-6390\n\n#Zabbix #monitoramentoderede #NOC #provedordeinternet #ISP #telecom #B7Telecom"
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "mikrotik-vulneravel",
+  "images": [
+   "posts/2026-11-06-mikrotik-vulneravel/01.jpg",
+   "posts/2026-11-06-mikrotik-vulneravel/02.jpg",
+   "posts/2026-11-06-mikrotik-vulneravel/03.jpg",
+   "posts/2026-11-06-mikrotik-vulneravel/04.jpg",
+   "posts/2026-11-06-mikrotik-vulneravel/05.jpg",
+   "posts/2026-11-06-mikrotik-vulneravel/06.jpg"
+  ],
+  "caption": "Um roteador exposto pode derrubar o seu provedor inteiro. 🔐\n\nConfira hoje:\n1. Winbox, SSH e API abertos para a internet\n2. Usuário admin padrão ainda ativo\n3. DNS respondendo para fora (allow-remote-requests sem firewall)\n4. RouterOS desatualizado\n\nSalve e mande para quem cuida dos seus roteadores.\n\nA B7 Telecom faz a auditoria e a correção com janela de manutenção.\n\n📲 (83) 99316-6390\n\n#provedordeinternet #redes #MikroTik #PPPoE #fibraoptica #OLT #GPON #ISP #infraestruturaderede #B7Telecom #segurancadarede #RouterOS"
+ },
+ {
+  "date": "2026-11-07",
+  "slug": "noc-proprio-terceirizado",
+  "images": [
+   "posts/2026-11-07-noc-proprio-terceirizado/01.jpg",
+   "posts/2026-11-07-noc-proprio-terceirizado/02.jpg",
+   "posts/2026-11-07-noc-proprio-terceirizado/03.jpg",
+   "posts/2026-11-07-noc-proprio-terceirizado/04.jpg",
+   "posts/2026-11-07-noc-proprio-terceirizado/05.jpg",
+   "posts/2026-11-07-noc-proprio-terceirizado/06.jpg"
+  ],
+  "caption": "Montar um NOC 24/7 próprio custa bem mais do que um salário. 🧮\n\nA conta que pouca gente faz:\n• 168 h por semana ÷ 44 h de jornada = 4 profissionais para 1 posto, sem contar folgas e férias\n• Ferramentas, servidores e manutenção\n• Treinamento e rotatividade\n\nCom o NOC da B7 Telecom, o custo é fixo e a equipe já chega treinada.\n\n📲 Quer comparar com os números do seu provedor? (83) 99316-6390\n\n#provedordeinternet #NOC #monitoramento24h #consultoriaderedes #ISP #telecom #MikroTik #B7Telecom"
+ },
+ {
+  "date": "2026-11-08",
+  "slug": "perguntas-noc",
+  "images": [
+   "posts/2026-11-08-perguntas-noc/01.jpg",
+   "posts/2026-11-08-perguntas-noc/02.jpg",
+   "posts/2026-11-08-perguntas-noc/03.jpg",
+   "posts/2026-11-08-perguntas-noc/04.jpg",
+   "posts/2026-11-08-perguntas-noc/05.jpg",
+   "posts/2026-11-08-perguntas-noc/06.jpg"
+  ],
+  "caption": "As 4 perguntas que mais ouvimos de donos de provedor antes de terceirizar o NOC: 🤔\n\n1. Vocês vão mexer na minha rede? Só com a sua autorização. O monitoramento é feito por leitura (SNMP e logs).\n2. Funciona com o meu equipamento? MikroTik, Huawei, Cisco e OLTs com SNMP.\n3. Preciso trocar equipamento? Normalmente não.\n4. Tem contrato e nota fiscal? Sim, em todos os serviços.\n\nTem outra dúvida? Deixe nos comentários ou chame no WhatsApp (83) 99316-6390.\n\n#provedordeinternet #NOC #monitoramento24h #consultoriaderedes #ISP #telecom #MikroTik #B7Telecom"
+ },
+ {
+  "date": "2026-11-09",
+  "slug": "ipv6-monitorar",
+  "images": [
+   "posts/2026-11-09-ipv6-monitorar/01.jpg",
+   "posts/2026-11-09-ipv6-monitorar/02.jpg",
+   "posts/2026-11-09-ipv6-monitorar/03.jpg",
+   "posts/2026-11-09-ipv6-monitorar/04.jpg",
+   "posts/2026-11-09-ipv6-monitorar/05.jpg",
+   "posts/2026-11-09-ipv6-monitorar/06.jpg"
+  ],
+  "caption": "Entregar IPv6 é só o começo. Sem monitorar, o problema aparece pelo cliente. 🌐\n\n4 pontos para acompanhar:\n1. Uso do pool de prefixos (PD)\n2. Quantidade de clientes com IPv6 ativo\n3. Sessões BGP IPv6 (separadas das v4)\n4. Firewall IPv6, que não herda as regras de v4\n\n💬 Comente IPv6 ou chame no WhatsApp (83) 99316-6390\n\n#provedordeinternet #redes #MikroTik #PPPoE #fibraoptica #OLT #GPON #ISP #infraestruturaderede #B7Telecom #IPv6 #BGP"
+ },
+ {
+  "date": "2026-11-10",
+  "slug": "backup-mikrotik-olt",
+  "images": [
+   "posts/2026-11-10-backup-mikrotik-olt/01.jpg",
+   "posts/2026-11-10-backup-mikrotik-olt/02.jpg",
+   "posts/2026-11-10-backup-mikrotik-olt/03.jpg",
+   "posts/2026-11-10-backup-mikrotik-olt/04.jpg",
+   "posts/2026-11-10-backup-mikrotik-olt/05.jpg",
+   "posts/2026-11-10-backup-mikrotik-olt/06.jpg",
+   "posts/2026-11-10-backup-mikrotik-olt/07.jpg"
+  ],
+  "caption": "Se o seu concentrador morrer agora, quanto tempo você leva para colocar tudo no ar de novo? ⏱️\n\nChecklist:\n✅ Export e .backup\n✅ Rotina automática e diária\n✅ Cópia fora do equipamento\n✅ OLT e ONUs na mesma rotina\n✅ Teste de restauração\n\nSalve este post e confira hoje.\n\nA B7 Telecom automatiza os backups e avisa no WhatsApp se algum falhar. 📲 (83) 99316-6390\n\n#provedordeinternet #redes #MikroTik #PPPoE #fibraoptica #OLT #GPON #ISP #infraestruturaderede #B7Telecom #backup"
+ }
+]
